@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PTOOP.Lab1", "PTOOP.Lab1\PTOOP.Lab1.csproj", "{67E2C7A2-4794-42FC-AAF6-DA1E239D9000}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PTOOP.Lab1.BLL", "PTOOP.Lab1.BLL\PTOOP.Lab1.BLL.csproj", "{093236F7-7359-46A8-8EF7-1E75734360D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67E2C7A2-4794-42FC-AAF6-DA1E239D9000}.Debug|x86.ActiveCfg = Debug|x86
+		{67E2C7A2-4794-42FC-AAF6-DA1E239D9000}.Debug|x86.Build.0 = Debug|x86
+		{67E2C7A2-4794-42FC-AAF6-DA1E239D9000}.Release|x86.ActiveCfg = Release|x86
+		{67E2C7A2-4794-42FC-AAF6-DA1E239D9000}.Release|x86.Build.0 = Release|x86
+		{093236F7-7359-46A8-8EF7-1E75734360D4}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{093236F7-7359-46A8-8EF7-1E75734360D4}.Debug|x86.Build.0 = Debug|Any CPU
+		{093236F7-7359-46A8-8EF7-1E75734360D4}.Release|x86.ActiveCfg = Release|Any CPU
+		{093236F7-7359-46A8-8EF7-1E75734360D4}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
